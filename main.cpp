@@ -1,5 +1,4 @@
-# blur-assermble-in-gray-change
-fuzzy function is S
+
 #include<opencv2/opencv.hpp>
 #include<iostream>
 using namespace cv;
@@ -31,6 +30,7 @@ int main()
 	waitKey();
 
 }
+
 int fuzzyS(int p,int a, int b, int c)
 {
 	
